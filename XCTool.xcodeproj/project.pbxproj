@@ -289,7 +289,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 8MLCLBT8FW;
+				DEVELOPMENT_TEAM = Z4MMLZ26HH;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = com.sk.XCTool;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -301,7 +301,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 8MLCLBT8FW;
+				DEVELOPMENT_TEAM = Z4MMLZ26HH;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = com.sk.XCTool;
 				PRODUCT_NAME = "$(TARGET_NAME)";
